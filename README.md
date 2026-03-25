@@ -31,4 +31,6 @@ For Assessments, each team must create their **own private GitHub repo**, with:
 git clone https://github.com/<org-or-user>/finm3422.git
 cd finm3422
 
+Student Oscar successfully cloned the repo.
+
 Tam has successfully cloned the repo
